@@ -15,7 +15,8 @@ data/
 *.log
 
 # ---- this computer only
-.claude/
+.claude/*
+!.claude/skills/
 CLAUDE.local.md
 .vscode/
 .idea/
